@@ -3496,7 +3496,7 @@ export type ProviderV2Info = {
         name: string
       }
     | {
-        via: "auth"
+        via: "account"
         service: string
       }
     | {
